@@ -2,8 +2,6 @@
 
 learn-python is a code-short note to understand the basics of Python, designed as a simple, code-first learning aid. To learn, users can uncomment the code lines and execute the files to see how each concept works in practice. It briefly covers core theory such as data types, variables, strings, operators, slicing, input handling, conditionals, loops, functions, return values, and variable scope.
 
-Designed and developed by Supun Wijesooriya.
-
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## Features
@@ -70,7 +68,7 @@ To run the notes locally, follow these steps:
 
 This project was developed by:
 
-- **Supun Wijesooriya**
+- **Supun Wijesooriya** - Developer
 
 ## Contributing
 
